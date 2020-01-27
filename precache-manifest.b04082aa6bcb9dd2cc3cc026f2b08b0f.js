@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b74ce6089ddfd021ba91334f55b43d0",
+    "revision": "6154de5497dd11884c63a5433a2298d5",
     "url": "/react-flashlight-demo/index.html"
   },
   {
-    "revision": "95641e7fcbeeefed21f6",
+    "revision": "3f0c2d6bcca8bb0b6ad3",
     "url": "/react-flashlight-demo/static/css/main.fc349e13.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-flashlight-demo/static/js/2.807410db.chunk.js.LICENSE"
   },
   {
-    "revision": "95641e7fcbeeefed21f6",
-    "url": "/react-flashlight-demo/static/js/main.e78cf802.chunk.js"
+    "revision": "3f0c2d6bcca8bb0b6ad3",
+    "url": "/react-flashlight-demo/static/js/main.cb8e35ac.chunk.js"
   },
   {
     "revision": "5907e5be705b3ace41ca",
