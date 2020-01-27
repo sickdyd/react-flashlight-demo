@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc349e13.chunk.css",
-    "main.js": "/static/js/main.136d7493.chunk.js",
-    "main.js.map": "/static/js/main.136d7493.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.14da1222.js",
-    "runtime-main.js.map": "/static/js/runtime-main.14da1222.js.map",
-    "static/js/2.807410db.chunk.js": "/static/js/2.807410db.chunk.js",
-    "static/js/2.807410db.chunk.js.map": "/static/js/2.807410db.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6fa082ab4036076a8b2499863d0ff732.js": "/precache-manifest.6fa082ab4036076a8b2499863d0ff732.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.fc349e13.chunk.css.map": "/static/css/main.fc349e13.chunk.css.map",
-    "static/js/2.807410db.chunk.js.LICENSE": "/static/js/2.807410db.chunk.js.LICENSE",
-    "static/media/bg.jpg": "/static/media/bg.c34fb122.jpg"
+    "main.css": "/react-flashlight-demo/static/css/main.fc349e13.chunk.css",
+    "main.js": "/react-flashlight-demo/static/js/main.e78cf802.chunk.js",
+    "main.js.map": "/react-flashlight-demo/static/js/main.e78cf802.chunk.js.map",
+    "runtime-main.js": "/react-flashlight-demo/static/js/runtime-main.4b6f119f.js",
+    "runtime-main.js.map": "/react-flashlight-demo/static/js/runtime-main.4b6f119f.js.map",
+    "static/js/2.807410db.chunk.js": "/react-flashlight-demo/static/js/2.807410db.chunk.js",
+    "static/js/2.807410db.chunk.js.map": "/react-flashlight-demo/static/js/2.807410db.chunk.js.map",
+    "index.html": "/react-flashlight-demo/index.html",
+    "precache-manifest.3bdc843d0a5e05f63e50edc7ac2394e1.js": "/react-flashlight-demo/precache-manifest.3bdc843d0a5e05f63e50edc7ac2394e1.js",
+    "service-worker.js": "/react-flashlight-demo/service-worker.js",
+    "static/css/main.fc349e13.chunk.css.map": "/react-flashlight-demo/static/css/main.fc349e13.chunk.css.map",
+    "static/js/2.807410db.chunk.js.LICENSE": "/react-flashlight-demo/static/js/2.807410db.chunk.js.LICENSE",
+    "static/media/bg.jpg": "/react-flashlight-demo/static/media/bg.c34fb122.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.14da1222.js",
+    "static/js/runtime-main.4b6f119f.js",
     "static/js/2.807410db.chunk.js",
     "static/css/main.fc349e13.chunk.css",
-    "static/js/main.136d7493.chunk.js"
+    "static/js/main.e78cf802.chunk.js"
   ]
 }
