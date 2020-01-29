@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-flashlight-demo/precache-manifest.346861a7402022f52f5df0c9c865b15d.js"
+  "/react-flashlight-demo/precache-manifest.e7904484ffd7d74d57a1761c24eced92.js"
 );
 
 self.addEventListener('message', (event) => {
