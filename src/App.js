@@ -32,7 +32,6 @@ function App() {
         <span style={{color: "red", fontSize: "calc(2vmin + 20px)"}}>ReactFlashlight demo by Sickdyd</span>
 
         <div className="container">
-          <span>Menu example</span>
           <div className="menu">
             <ReactFlashlight showCursor>
               <div className="btn">Home</div>
@@ -43,12 +42,10 @@ function App() {
           </div>
         </div>
 
-        <div className="container">
-          <span>Use the <span style={{color: "red"}}>mouse</span> to move the light.</span>          
-          <span>You can turn on/off the lights.</span>
-          <button style={{width: "150px", margin: "20px"}} onClick={()=>setEnabled(!enabled)}>Turn on/off</button>
+        <div className="container">       
+          <span>Click on the image below to toggle the lights.</span>
           <ReactFlashlight enabled={enabled}>
-            <div style={style}>
+            <div style={style} onClick={()=>setEnabled(!enabled)}>
               <img style={{width: "80vw", height: "auto"}} src={bg} alt="bg" />
             </div>
           </ReactFlashlight>
