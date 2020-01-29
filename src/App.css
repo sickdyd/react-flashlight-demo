@@ -32,12 +32,32 @@
 }
 
 .container > div > div {
-  background-color: black;
   color: white;
 }
 
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn {
+  margin-right: 20px;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: darkcyan;
+  box-shadow: 0 2px 5px -1px rgba(0, 0, 0, 0.3);
+  transition: all 100ms ease-in-out;
+  margin: 20px;
+}
+
+.btn:hover {
+  color: orange;
+  cursor: pointer;
+  box-shadow: 0 2px 15px 5px rgba(0, 0, 0, 0.3);
+}
+
 span {
-  margin: 20px 0px 20px 0px;
+  margin-top: 20px;
 }
 
 a, 
